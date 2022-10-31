@@ -1,17 +1,108 @@
 
 {
-    "alunos": [
+    "catalogo": [
         {
             "id": 1,
-            "nome": "aluna A",
-            "nota": 8
+            "nome": "Halloween Ends",
+            "duração": "1h 51m ",
+            "Gênero":"Suspense, Terror",
+            "Classificação":"14 anos"
+
         },
         {
             "id": 2,
-            "nome": "aluno B",
-            "nota": 5.3
+            "nome": "Convite Maldito",
+            "duração": "  1h 44m",
+            "Gênero":"Suspense, Terror",
+            "Classificação":"14 anos"
         },
+        {
+            "id": 3,
+            "nome": "Adão Negro ",
+            "duração": "2h 5m",
+            "Classificação":"14 anos"
+        },
+        {
+            "id": 4,
+            "nome": "Sorria ",
+            "duração": "1h 55m",
+            "Gênero":"Suspense, Terror",
+            "Classificação":"14 anos"
+        },
+        {
+            "id": 4,
+            "nome": "A Mulher Rei",
+            "duração": "2h 14m",
+            "Gênero":" Ação, Aventura",
+            "Classificação" :"14 anos"
+        }
         
-
+     ],
+         "combos": [
+        {
+            "id": 1,
+            "nome": "",
+            "duração": " "
+        },
+        {
+            "id": 2,
+            "nome": "",
+            "duração": "  "
+        },
+        {
+            "id": 3,
+            "nome": "",
+            "duração": ""
+        },
+        {
+            "id": 4,
+            "nome": " ",
+            "duração": ""
+        },
+        {
+            "id": 4,
+            "nome": "",
+            "duração": ""
+        }
+        
+    ],
+   
+    " EM BREVE NOS CINEMAS": [
+        {
+            "id": 1,
+            "nome": "A LUZ DO DEMÔNIO",
+            "duração": " ",
+            "Gênero":"Suspense, Terror",
+            "Classificação":"14 anos"
+        },
+        {
+            "id": 2,
+            "nome": "",
+            "duração": "  ",
+            "Gênero":"",
+            "Classificação":"14 anos"
+        },
+        {
+            "id": 3,
+            "nome": "",
+            "duração": "",
+            "Gênero":"",
+            "Classificação":"14 anos"
+        },
+        {
+            "id": 4,
+            "nome": " ",
+            "duração": "",
+            "Gênero":"",
+            "Classificação":"14 anos"
+        },
+        {
+            "id": 4,
+            "nome": "",
+            "duração": "",
+            "Gênero":"",
+            "Classificação":"14 anos"
+        }
+        
     ]
 }
