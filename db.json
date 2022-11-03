@@ -30,7 +30,7 @@
             "Classificação":"14 anos"
         },
         {
-            "id": 4,
+            "id": 5,
             "nome": "A Mulher Rei",
             "duração": "2h 14m",
             "Gênero":" Ação, Aventura",
@@ -66,38 +66,32 @@
         {
             "id": 1,
             "nome": "A LUZ DO DEMÔNIO",
-            "duração": " ",
+            "duração": "2h 51m ",
             "Gênero":"Suspense, Terror",
             "Classificação":"14 anos"
         },
         {
             "id": 2,
-            "nome": "",
-            "duração": "  ",
-            "Gênero":"",
-            "Classificação":"14 anos"
+            "nome": "as aventuras de tadeo e a tábua de esmeralda",
+            "duração": "90 min",
+            "Gênero":"Animação",
+            "Classificação":"Livre"
         },
         {
             "id": 3,
-            "nome": "",
-            "duração": "",
-            "Gênero":"",
-            "Classificação":"14 anos"
+            "nome": "pantera negra",
+            "duração": "161 min",
+            "Gênero":"Ação",
+            "Classificação":"Livre"
         },
         {
             "id": 4,
-            "nome": " ",
-            "duração": "",
-            "Gênero":"",
-            "Classificação":"14 anos"
-        },
-        {
-            "id": 4,
-            "nome": "",
-            "duração": "",
-            "Gênero":"",
+            "nome": "senhor dos anéis ",
+            "duração": "180 min",
+            "Gênero":"Ficção",
             "Classificação":"14 anos"
         }
+        
         
     ]
 }
