@@ -41,28 +41,23 @@
          "combos": [
         {
             "id": 1,
-            "nome": "",
-            "duração": " "
+            "nome": "pipoca salgada balde + 02 bebidas médias refil",
+            "preço": 25,00
         },
         {
             "id": 2,
-            "nome": "",
-            "duração": "  "
+            "nome": "pipoca caramelada balde + 01 bebida média refil ",
+            "preço": 16,50
         },
         {
             "id": 3,
-            "nome": "",
-            "duração": ""
+            "nome": "pão de queijo + pipoca salgada",
+            "preço": "12,00"
         },
         {
             "id": 4,
-            "nome": " ",
-            "duração": ""
-        },
-        {
-            "id": 4,
-            "nome": "",
-            "duração": ""
+            "nome": "pipoca doce balde + 01 cocacola refil",
+            "preço": 10,50
         }
         
     ],
