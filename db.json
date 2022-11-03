@@ -47,7 +47,7 @@
         {
             "id": 2,
             "nome": "pipoca caramelada balde + 01 bebida média refil ",
-            "preço": 16,50
+            "preço": 16,00
         },
         {
             "id": 3,
@@ -57,7 +57,7 @@
         {
             "id": 4,
             "nome": "pipoca doce balde + 01 cocacola refil",
-            "preço": 10,50
+            "preço": 10,00
         }
         
     ],
