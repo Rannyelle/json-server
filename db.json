@@ -52,7 +52,7 @@
         {
             "id": 3,
             "nome": "pão de queijo + pipoca salgada",
-            "preço": "12,00"
+            "preço": 12,00
         },
         {
             "id": 4,
