@@ -42,22 +42,22 @@
         {
             "id": 1,
             "nome": "pipoca salgada balde + 02 bebidas médias refil",
-            "preço": 25,00
+            "preço": "25,00 R$"
         },
         {
             "id": 2,
             "nome": "pipoca caramelada balde + 01 bebida média refil ",
-            "preço": 16,00
+            "preço": "23,00 R$"
         },
         {
             "id": 3,
             "nome": "pão de queijo + pipoca salgada",
-            "preço": 12,00
+            "preço": "18,50 R$"
         },
         {
             "id": 4,
             "nome": "pipoca doce balde + 01 cocacola refil",
-            "preço": 10,00
+            "preço": "21,50 R$"
         }
         
     ],
