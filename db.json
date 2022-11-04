@@ -60,38 +60,35 @@
             "preço": "21,50 R$"
         }
         
-    ],
-   
+    ],  
     "em breve": [
-        {
-            "id": 1,
-            "nome": "A LUZ DO DEMÔNIO",
-            "duração": "2h 51m ",
-            "Gênero":"Suspense, Terror",
-            "Classificação":"14 anos"
-        },
-        {
-            "id": 2,
-            "nome": "as aventuras de tadeo e a tábua de esmeralda",
-            "duração": "90 min",
-            "Gênero":"Animação",
-            "Classificação":"Livre"
-        },
-        {
-            "id": 3,
-            "nome": "pantera negra",
-            "duração": "161 min",
-            "Gênero":"Ação",
-            "Classificação":"Livre"
-        },
-        {
-            "id": 4,
-            "nome": "senhor dos anéis ",
-            "duração": "180 min",
-            "Gênero":"Ficção",
-            "Classificação":"14 anos"
-        }
-        
-        
-    ]
+   {
+       "id": 1,
+       "nome": "A LUZ DO DEMÔNIO",
+       "duração": "2h 51m ",
+       "Gênero":"Suspense, Terror",
+       "Classificação":"14 anos"
+   },
+   {
+       "id": 2,
+       "nome": "as aventuras de tadeo e a tábua de esmeralda",
+       "duração": "90 min",
+       "Gênero":"Animação",
+       "Classificação":"Livre"
+   },
+   {
+       "id": 3,
+       "nome": "pantera negra",
+       "duração": "161 min",
+       "Gênero":"Ação",
+       "Classificação":"Livre"
+   },
+   {
+       "id": 4,
+       "nome": "senhor dos anéis ",
+       "duração": "180 min",
+       "Gênero":"Ficção",
+       "Classificação":"14 anos"
+   }
+]
 }
